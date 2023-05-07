@@ -1,4 +1,3 @@
-console.log("main.ts");
 import fs from "fs";
 
 const { npm_config_pattern } = process.env;

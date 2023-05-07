@@ -1,4 +1,3 @@
-console.log("Design Patterns");
 import fs from "fs";
 
 export function init(pattern_type: string): void {

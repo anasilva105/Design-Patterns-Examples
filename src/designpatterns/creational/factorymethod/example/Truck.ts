@@ -1,7 +1,7 @@
 import Transport from "./Transport";
 
 class Truck implements Transport {
-    deliver() {
+    deliver(): void {
         console.log('Delivering mail via truck...');
     };
 }
